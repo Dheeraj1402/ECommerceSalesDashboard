@@ -7,6 +7,7 @@ This project involves creating a comprehensive E-commerce Sales Dashboard using 
 # Datasets:
 
 Orders.csv: Contains details of individual customer orders, including the order amount, quantity, customer information, product category, and payment mode.
+
 Details.csv: Contains additional data, including customer details and product-specific information.
 
 # Key Insights
